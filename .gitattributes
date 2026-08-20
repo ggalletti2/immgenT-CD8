@@ -1,3 +1,0 @@
-*.h5mu filter=lfs diff=lfs merge=lfs -text
-*.txt.gz filter=lfs diff=lfs merge=lfs -text
-data/gene_factor_matrix.txt filter=lfs diff=lfs merge=lfs -text
