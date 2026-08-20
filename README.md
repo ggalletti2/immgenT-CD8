@@ -30,7 +30,7 @@ immgenT-CD8/
 └── .gitignore
 ```
 
-All required input files live in the `data/` folder. The notebook uses relative paths of the form `data/...` and should be run from this project root.
+All required input files live in the `immgenT-CD8.zip` data package available on Zenodo. The notebook uses relative paths of the form `data/...` and should be run from this project root.
 
 ## Environment setup
 
