@@ -4,14 +4,14 @@ This repository is the complete, ready-to-run companion code and data package fo
 
 ## Data availability
 
-The complete data package is available here on GitHub and on Zenodo:  
+The complete data package is available on Zenodo:  
 **https://zenodo.org/records/21839963/files/immgenT-CD8.zip**
 
 ## Contents
 
 ```
 immgenT-CD8/
-├── data/                     # All required input files
+├── immgenT-CD8.zip/          # All required input files (Zenodo)
 │   ├── immgenT-CD8.h5mu      # Curated MuData (RNA + ADT)
 │   ├── immgenT-CD8.xlsx      # Sample-level metadata / proportions
 │   ├── cell_factor_matrix.txt.gz
