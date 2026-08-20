@@ -11,7 +11,7 @@ The complete data package is available on Zenodo:
 
 ```
 immgenT-CD8/
-├── immgenT-CD8.zip/          # All required input files (Zenodo)
+├── data/                     # All required input files (download from Zenodo)
 │   ├── immgenT-CD8.h5mu      # Curated MuData (RNA + ADT)
 │   ├── immgenT-CD8.xlsx      # Sample-level metadata / proportions
 │   ├── cell_factor_matrix.txt.gz
